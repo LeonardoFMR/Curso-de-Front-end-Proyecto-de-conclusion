@@ -9,7 +9,7 @@ CSS
 JavaScript
 Estructura del Proyecto
 1. Encabezado
-Se creó un encabezado que incluye un título y un subtítulo, utilizando etiquetas semánticas como <header>, <h1>, y <h2> para mejorar la accesibilidad y SEO.
+Se creó un encabezado que incluye un título y un subtítulo, utilizando etiquetas semánticas como header, h1, y h2 para mejorar la accesibilidad y SEO.
 
 2. Panel About
 Desarrollé un panel que proporciona información sobre el evento, utilizando una estructura clara y atractiva para que los visitantes comprendan de qué se trata la conferencia.
