@@ -31,4 +31,4 @@ Desafíos y Soluciones
 Durante el desarrollo, enfrenté varios desafíos, como la alineación de elementos en CSS y la implementación del scroll automático. Para resolver estos problemas, consulté la documentación y experimenté con diferentes enfoques hasta encontrar la solución adecuada.
 
 Conclusión
-Este proyecto me permitió consolidar mis conocimientos en desarrollo web y aplicar conceptos aprendidos en cursos anteriores. E
+Este proyecto me permitió consolidar mis conocimientos en desarrollo web y aplicar conceptos aprendidos en cursos anteriores. 
