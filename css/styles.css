@@ -1,0 +1,21 @@
+@import url('/css/reset.css');
+@import url('/css/header.css');
+@import url('/css/about.css');
+@import url('/css/speakers.css');
+@import url('/css/form.css');
+
+body{
+    width: 96%;
+    margin: 0 auto;
+}
+
+
+a, button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    background-color: #48a3a6;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
