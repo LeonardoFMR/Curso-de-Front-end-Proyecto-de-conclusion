@@ -1,9 +1,10 @@
 # Curso_de_Front_end_Proyecto_de_conclusion
-AluraConf
-Introducción
+##AluraConf
+
+###Introducción
 AluraConf es un proyecto desarrollado como parte del curso de Front-end en Alura. El objetivo del proyecto es crear una página web funcional para un evento de conferencias, utilizando HTML, CSS y JavaScript.
 
-Tecnologías Utilizadas
+###Tecnologías Utilizadas
 HTML
 CSS
 JavaScript
@@ -27,8 +28,8 @@ Creé un formulario donde los participantes pueden inscribirse al evento. El for
 5. Comportamiento con JavaScript
 Implementé un comportamiento de scroll automático en la página, mejorando la experiencia del usuario al navegar entre secciones. Utilicé JavaScript para crear esta funcionalidad, lo que permite una transición suave.
 
-Desafíos y Soluciones
+###Desafíos y Soluciones
 Durante el desarrollo, enfrenté varios desafíos, como la alineación de elementos en CSS y la implementación del scroll automático. Para resolver estos problemas, consulté la documentación y experimenté con diferentes enfoques hasta encontrar la solución adecuada.
 
-Conclusión
+###Conclusión
 Este proyecto me permitió consolidar mis conocimientos en desarrollo web y aplicar conceptos aprendidos en cursos anteriores. 
