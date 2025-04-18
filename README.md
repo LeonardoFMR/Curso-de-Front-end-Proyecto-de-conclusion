@@ -1,35 +1,42 @@
-# Curso_de_Front_end_Proyecto_de_conclusion
-##AluraConf
+# 🎤 AluraConf – Proyecto de conclusión
 
-###Introducción
-AluraConf es un proyecto desarrollado como parte del curso de Front-end en Alura. El objetivo del proyecto es crear una página web funcional para un evento de conferencias, utilizando HTML, CSS y JavaScript.
+---
 
-###Tecnologías Utilizadas
-HTML
-CSS
-JavaScript
-Estructura del Proyecto
-1. Encabezado
-Se creó un encabezado que incluye un título y un subtítulo, utilizando etiquetas semánticas como header, h1, y h2 para mejorar la accesibilidad y SEO.
+## 📘 Descripción
 
-2. Panel About
-Desarrollé un panel que proporciona información sobre el evento, utilizando una estructura clara y atractiva para que los visitantes comprendan de qué se trata la conferencia.
+Este proyecto fue desarrollado como parte del curso de Front-end en **Alura LATAM**.  
+El objetivo fue construir una página web funcional para un evento de conferencias, aplicando lo aprendido en HTML, CSS y JavaScript.
 
-3. Sección de Disertantes
-Implementé una sección que muestra tarjetas (cards) para cada disertante. Cada tarjeta incluye:
+---
 
-Una imagen del disertante
-Su nombre
-Una breve biografía
-El título de su conferencia
-4. Formulario de Inscripción
-Creé un formulario donde los participantes pueden inscribirse al evento. El formulario incluye campos para el nombre y el correo electrónico, asegurando que la información se recolecte de manera efectiva.
+## 🛠️ Tecnologías utilizadas
 
-5. Comportamiento con JavaScript
-Implementé un comportamiento de scroll automático en la página, mejorando la experiencia del usuario al navegar entre secciones. Utilicé JavaScript para crear esta funcionalidad, lo que permite una transición suave.
+- HTML
+- CSS
+- JavaScript
 
-###Desafíos y Soluciones
-Durante el desarrollo, enfrenté varios desafíos, como la alineación de elementos en CSS y la implementación del scroll automático. Para resolver estos problemas, consulté la documentación y experimenté con diferentes enfoques hasta encontrar la solución adecuada.
+---
 
-###Conclusión
-Este proyecto me permitió consolidar mis conocimientos en desarrollo web y aplicar conceptos aprendidos en cursos anteriores. 
+## 📌 Funcionalidades implementadas
+
+- Encabezado semántico con título y subtítulo.
+- Panel de información sobre el evento.
+- Sección de disertantes con tarjetas informativas.
+- Formulario de inscripción para los participantes.
+- Scroll automático entre secciones con JavaScript.
+
+---
+
+## 🚀 Aprendizajes
+
+Durante este proyecto consolidé conocimientos sobre:
+- Estructura semántica en HTML.
+- Estilos responsivos con CSS.
+- Manipulación del DOM y efectos con JavaScript.
+- Resolución de desafíos como alineación y comportamiento dinámico.
+
+---
+
+## 🎯 Conclusión
+
+**AluraConf** fue una excelente oportunidad para aplicar de forma práctica los conceptos vistos en clase y fortalecer mis habilidades en desarrollo web.
