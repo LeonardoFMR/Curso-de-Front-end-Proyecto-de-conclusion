@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Descripción
+## 📂 Acerca del repositorio
 
 Este proyecto fue desarrollado como parte del curso de Front-end en **Alura LATAM**.  
 El objetivo fue construir una página web funcional para un evento de conferencias, aplicando lo aprendido en HTML, CSS y JavaScript.
